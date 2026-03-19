@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ciscenje-stanova-cena-po-satu-beograd.com.in.rs/sitemap.xml
